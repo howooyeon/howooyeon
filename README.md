@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=400&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+my+GitHub🧐)](https://git.io/typing-svg)
 <div align="center">
 
--------
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhowooyeon%2Fhit-counter&count_bg=%2338B2FF&title_bg=%23B5B5B5&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![hoyeon Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=howooyeon&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/howooyeon/github-readme-stats)
