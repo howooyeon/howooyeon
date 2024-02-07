@@ -3,7 +3,7 @@
 
 -------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2338B2FF&title_bg=%23B5B5B5&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhowooyeon%2Fhit-counter&count_bg=%2338B2FF&title_bg=%23B5B5B5&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![hoyeon Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=howooyeon&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/howooyeon/github-readme-stats)
  
@@ -57,11 +57,12 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-    <!-- Others -->
+    <!-- Others 
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-</div><br>
+   </div> -->
+ <br>
 </div>
