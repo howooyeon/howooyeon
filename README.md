@@ -7,15 +7,6 @@
  
 <br>
 
-## 💻 DEV log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@sweethotato">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sweethotato)](https://github.com/bi-sz/velog-readme-stats)
-</div><br>
-
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hoyeonying@gmail.com">
