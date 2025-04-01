@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=400&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+my+GitHub🧐)](https://git.io/typing-svg)
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhowooyeon%2Fhit-counter&count_bg=%2338B2FF&title_bg=%23B5B5B5&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![hoyeon Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=howooyeon&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/howooyeon/github-readme-stats)
  
@@ -11,9 +10,6 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hoyeonying@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
     <a href="https://www.instagram.com/celestyn_lee">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -31,14 +27,15 @@
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+        <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
