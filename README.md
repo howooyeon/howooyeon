@@ -1,60 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=400&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+my+GitHub🧐)](https://git.io/typing-svg)
-<div align="center">
+## Project
+- **Memoir** - 웹 활동 자동 기록 Chrome Extension [(전국 대학생 성과공유포럼 우수상)](https://github.com/DigitalMemoir/Memoir-backend) | Backend Lead, PM
+- **Collec** - AI 기반 스크린샷 자동 분류 앱 [(📲 Google Play)](https://play.google.com/store/apps/details?id=com.collec.collecfe) | Team Leader, Backend
+- **Snowlog** - 연말 추억 공유 서비스 [(구름톤 유니브 3기 프로젝트)](https://github.com/howooyeon/Snowlog) | Backend
+- **HobbyPhoto** - 사진 취미 커뮤니티 플랫폼 [(Spring Framework 심화)](https://github.com/howooyeon/HobbyPhoto) | Fullstack
+- **Mountaineer** - 등산 기록 관리 플랫폼 [(Java Servlet 심화)](https://github.com/howooyeon/Mountaineer) | Fullstack
 
+## Activity 
+- AUSG (2025.07 - Present)
+- 구름톤 유니브 4기 중앙운영단 PM Leader (2025.01 - 2025.09)
+- 구름톤 유니브 2, 3기 서울여대 부대표 (2024.01 - 2024.12)
 
-[![hoyeon Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=howooyeon&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/howooyeon/github-readme-stats)
- 
-<br>
-
-## 📞 CONTACK 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:hoyeonying@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/celestyn_lee">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div><br>
-    
-## 📚 STACKS 📚
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    </div>
-    <!-- Others 
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-   </div> -->
- <br>
-</div>
+## Award
+- 🥈 전국 대학생 성과공유포럼 우수상 (2025) [Link](https://buly.kr/GZyhyV7)
+- 🥉 INNOHACK 동남권 해커톤 (2025) [Link](https://reborn.parancode.com/)
+- 🏅 Programming Guru2 (2024) [Link](https://drive.google.com/drive/folders/1DPkRK1VDnyJU1Uw8wCINaaFRwlI6Ogqq)
