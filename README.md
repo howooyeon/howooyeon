@@ -5,8 +5,9 @@
 - **HobbyPhoto** - 사진 취미 커뮤니티 플랫폼 [(Spring Framework 심화)](https://github.com/howooyeon/HobbyPhoto) | Fullstack
 - **Mountaineer** - 등산 기록 관리 플랫폼 [(Java Servlet 심화)](https://github.com/howooyeon/Mountaineer) | Fullstack
 
-## Activity 
-- AUSG (2025.07 - Present)
+## Activity
+- KUSITMS 33기 (2026.02 - Present)
+- AUSG 9기(2025.07 - Present)
 - 구름톤 유니브 4기 중앙운영단 PM Leader (2025.01 - 2025.09)
 - 구름톤 유니브 2, 3기 서울여대 부대표 (2024.01 - 2024.12)
 
